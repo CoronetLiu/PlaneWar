@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>飞机大战</title>
+    <link rel="icon" href="../../Title.ico" type="image/x-icon"/>
+    <link rel="stylesheet" type="text/css" href="index.css"/>
+</head>
+<body>
+    <div id="body_main" class="main">
+            <ul id="options" class="options">
+                <li value="1">超级困难</li>
+                <li value="2">非常困难</li>
+                <li value="3">比较困难</li>
+                <li value="4">就选我吧</li>
+            </ul>
+    </div>
+</body>
+<script src="index.js"></script>
+</html>
